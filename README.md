@@ -1,3 +1,7 @@
+### introduction 
+A simple web application that demonstrates taking a screengrab from a webcam and uploading it to a server.
+It runs on jetty and is built with maven (except the fla file - you need to publish that manually).
+
 ### installation
 * mvn install
 * mvn jetty:run
